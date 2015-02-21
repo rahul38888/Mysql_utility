@@ -4,7 +4,7 @@
     <script>
       window.onload = function(){
         sleep(2000);
-        header('Location: loginErr.php');
+        header('Location: userPage.php');
       }
     </script>
   </head>
